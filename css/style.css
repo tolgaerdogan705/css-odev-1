@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(170, 168, 164);
+}
+
+li {
+    color: brown;
+    font-size: 15px;
+    display: inline;
+    list-style-position: inside;
+} 
+h1{
+    color: red;
+    font-size: 30;
+    text-align: center;
+}
+
+h2{
+    color: blue;
+    font-size: 20;
+    text-align: center
+}
+
+p {
+    color: green;
+    font-size: 17px;
+    text-align: center
+}
